@@ -1,6 +1,9 @@
-# Time Application
+# Приложение "Хранитель времени"
 
-Time application consists of the frontend and backend parts
-Frontend is written with help of the Vue.js framework
-Backend is written using Node.js and Express
-Database is MySQL
+Приложение "Хранитель времени" состоит из фронтенд- и бэкенд-частей.
+Фронтенд написан с помощью фреймворка Vue.js.
+Бэкэнд написан с использованием Node.js и Express.
+База данных — MySQL
+
+Скопировано в учебных целях из курса Богдана Стащука (Bogdan Stashchuk) "Полный курс Docker".
+Ютуб-канал автора: https://www.youtube.com/@Bogdan_Stashchuk
